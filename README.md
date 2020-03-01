@@ -1,8 +1,8 @@
 # amandamoy.github.io
 
 
-Coming soon.
+# Coming soon.
 
 
-...waiting for models to converge :)
+# ...waiting for models to converge :)
 
